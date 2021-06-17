@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### I'm Obi fortune
+
+Welcome to my github 😃
+
+I'm currently open to job offers or student internship programs
+
+##### 📫 feel free to send a mail to [gabrielobi.of@gmail.com](mailto:gabrielobi.of@gmail.com)
 <!--
 **ickynavigator/ickynavigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
