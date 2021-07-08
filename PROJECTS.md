@@ -5,6 +5,6 @@
 - [ ] Social Media Clone
 - [x] E-Commerce Site
 - [ ] Blog
-- [ ] Portfolio
+- [x] Portfolio
 - [ ] Todo App
 - [ ] Website addon for live chat
