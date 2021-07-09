@@ -1,4 +1,4 @@
-### Future/Past Projects
+### Project ideas
 
 
 - [ ] Realtime Chat App
