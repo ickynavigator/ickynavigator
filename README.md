@@ -4,9 +4,16 @@
 
 Welcome to my github 😃
 
-I'm currently open to job offers or student internship programs
+I'm currently open to job offers
 
 ##### 📫 feel free to send a mail to [gabrielobi.of@gmail.com](mailto:gabrielobi.of@gmail.com)
+
+[![Ickynavigator's GitHub stats](https://github-readme-stats.vercel.app/api?username=ickynavigator&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ickynavigator&hide=html&langs_count=6&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Ickynavigator's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ickynavigator)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **ickynavigator/ickynavigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
