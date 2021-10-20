@@ -1,10 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-#### I'm Obi fortune
+### I'm Obi fortune
+
+### `Open to job offers`
 
 Welcome to my github 😃
 
-I'm currently open to job offers
+I'm a frontend web developer using Reactjs
+
+I also do backend with NodeJs
+
+I'm currently working on a workspace chat application
 
 ##### 📫 feel free to send a mail to [gabrielobi.of@gmail.com](mailto:gabrielobi.of@gmail.com)
 
