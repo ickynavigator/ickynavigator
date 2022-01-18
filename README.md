@@ -2,7 +2,7 @@
 
 ### I'm Obi fortune
 
-### `Open to job offers`
+### `NOT AVAILABLE FOR FULLTIME JOB OFFERS AT THE MOMENT BUT FEEL FREE TO CONTACT ME`
 
 Welcome to my github 😃
 
@@ -10,7 +10,7 @@ I'm a frontend web developer using Reactjs
 
 I also do backend with NodeJs
 
-I'm currently working on a workspace chat application
+I'm currently working on a file sharing application
 
 ##### 📫 feel free to send a mail to [gabrielobi.of@gmail.com](mailto:gabrielobi.of@gmail.com)
 
