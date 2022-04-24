@@ -1,10 +1,10 @@
 ### Project ideas
 
 
-- [ ] Realtime Chat App
+- [x] Realtime Chat App
 - [ ] Social Media Clone
 - [x] E-Commerce Site
-- [ ] Blog
+- [x] Blog
 - [x] Portfolio
-- [ ] Todo App
-- [ ] Website addon for live chat
+- [x] Todo App
+- [x] Website addon for live chat
