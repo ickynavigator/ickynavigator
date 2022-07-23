@@ -8,3 +8,4 @@
 - [x] Portfolio
 - [ ] Todo App
 - [ ] Website addon for live chat
+- [ ] Bug Tracker
