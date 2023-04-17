@@ -24,6 +24,8 @@ I'm currently learning ReactNative
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ickynavigator&hide=html&langs_count=6&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ickynavigator&theme=cobalt2&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
 [![Ickynavigator's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ickynavigator&langs_count=5&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/9ab30b92-1dfd-42fa-b954-60c7e3b0360b.svg)](https://wakatime.com/@9ab30b92-1dfd-42fa-b954-60c7e3b0360b)
