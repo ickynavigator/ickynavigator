@@ -30,6 +30,8 @@ I'm currently learning ReactNative
 
 [![wakatime](https://wakatime.com/badge/user/9ab30b92-1dfd-42fa-b954-60c7e3b0360b.svg)](https://wakatime.com/@9ab30b92-1dfd-42fa-b954-60c7e3b0360b)
 
+[![GitHub Profile Counter](https://komarev.com/ghpvc/?username=ickynavigator&color=blue&base=5000)](https://komarev.com/ghpvc)
+
 <!--
 **ickynavigator/ickynavigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
