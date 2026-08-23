@@ -22,7 +22,7 @@ jobs:
             - name: Generate streak stats
               uses: DenverCoder1/github-readme-streak-stats@main
               with:
-                  options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+                  options: user=${{ github.repository_owner }}&theme=cobalt2&hide_border=true
                   path: profile/readme-cards/streak.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,7 +30,7 @@ jobs:
               uses: stats-organization/github-readme-stats-action@v2
               with:
                   card: stats
-                  options: username=${{ github.repository_owner }}&show_icons=true
+                  options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&show_icons=true&theme=cobalt&hide_border=true
                   path: profile/readme-cards/stats.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,7 +38,7 @@ jobs:
               uses: stats-organization/github-readme-stats-action@v2
               with:
                   card: top-langs
-                  options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&show_icons=true&theme=cobalt
+                  options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&show_icons=true&theme=cobalt&hide_border=true
                   path: profile/readme-cards/top-langs.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,7 +46,7 @@ jobs:
               uses: stats-organization/github-readme-stats-action@v2
               with:
                   card: wakatime
-                  options: username=${{ github.repository_owner }}&langs_count=6&show_icons=true&theme=cobalt
+                  options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&show_icons=true&theme=cobalt&hide_border=true
                   path: profile/readme-cards/wakatime.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
